@@ -1,0 +1,38 @@
+// Place all the styles related to the Welcome controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+.welcome
+{
+background: yellow;
+   width: 100%;
+    height: 100%;
+}
+
+.hello
+{
+  margin: auto;
+  width: 67%;
+  padding: 10px;
+}
+
+
+.blog
+{
+  color: yellow;	
+  font-size: 60px;		
+  position: fixed;
+  top: 60%;
+  left:50%;
+  padding: 10px;
+}
+
+
+.blog:hover {
+	
+	color: yellow;
+	text-shadow: 1px 1px 8px #ffc, 1px -1px 8px red;
+
+}
+
